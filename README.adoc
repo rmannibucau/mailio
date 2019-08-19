@@ -1,0 +1,3 @@
+= Talend Mail component
+
+It targets Talend Studio and Pipeline Designer.
